@@ -3,7 +3,7 @@ Crawling for JavaScript rendered HTML in websites
 
 ####Description:
 
-You are here because Beautiful Soup doesn't work to get the full HTML contents  of a website. This is probably because that HTML content is not hard coded in the source code, but loads only after JavaScript renders. Beautiful Soup is not beautiful enough for JavaScript rendered HTML.
+You are here because Beautiful Soup doesn't work to get the full HTML contents  of a website. This is probably because that particular HTML content is not hard coded in the source code, but loads only after JavaScript renders. Beautiful Soup is not beautiful enough for JavaScript rendered HTML.
 
 You could use Selenium. But I have found the Scrapy-Splash package to be lighter-weight vs Selenium.
 
